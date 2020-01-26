@@ -5,7 +5,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Garamond', 'Arial', 'Sans-Serif';
+    font-family:'Georgia', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,7 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Georgia', 'Serif';
 }
 p {
     font-size: 1.1em;
@@ -33,6 +33,9 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+header {
+    border-bottom: 1px solid #d5d5d5;
 }
 
 ul.posts { 
