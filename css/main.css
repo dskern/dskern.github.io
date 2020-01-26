@@ -34,13 +34,5 @@ footer {
 }
 header {
     border-bottom: 1px solid #d5d5d5;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.1em;
-}
-
-ul.posts li {
-    list-style: none;
+    border-top: 2px solid #d5d5d5;
 }
