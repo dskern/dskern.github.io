@@ -1,5 +1,6 @@
 ---
 title: Talks
+layout: default
 ---
 
-[Catégories doubles virtuelles](Talks/DoubleCats.pdf)
+<a href="{{ Talks/DoubleCats.pdf }}">{{ Catégories doubles virtuelles }}</a>
