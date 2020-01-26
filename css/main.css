@@ -32,6 +32,5 @@ footer {
     font-size: .8em;
 }
 header {
-    background-color: lightgreen;
-    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
 }
