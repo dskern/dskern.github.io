@@ -3,4 +3,4 @@ title: Talks
 layout: page
 ---
 
-(Talks/DoubleCats.pdf)
+[Catégories doubles virtuelles](Talks/DoubleCats.pdf)
